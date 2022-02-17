@@ -1,1 +1,12 @@
-
+{
+  "ID" : "1",
+  "Summary" : "The message don't send",
+  "Severity" : "major",
+  "Priority" : "middle",
+  "Status" : "new",
+  "Author" : "Stryukova",
+  "Steps to Reproduce" : "Click on the button 'Send a messege'",
+  "Actual result" : "The message is not being sent",
+  "Expected Result" : "The message has been sent"
+}
+  
